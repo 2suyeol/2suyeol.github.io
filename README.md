@@ -1,5 +1,5 @@
 # Suyeol-Lee
-introduce myself
+Introduce myself
 <!DOCTYPE html>
 <html lang="ko">
 <head>
